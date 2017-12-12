@@ -1,0 +1,16 @@
+total 32
+-rw-r--r--  1 hy  staff  213 12 12 14:49 :q
+-rwxr-xr-x  1 hy  staff   32 12 11 16:31 helloWorld.sh
+-rw-r--r--  1 hy  staff    0 12 12 14:49 ls_result
+-rw-r--r--  1 hy  staff   29 12 12 14:48 redirect.sh
+-rw-r--r--  1 hy  staff   26 12 11 16:33 test.sh
+total 32
+-rwxr-xr-x  1 hy  staff   32 12 11 16:31 helloWorld.sh
+-rw-r--r--  1 hy  staff  261 12 12 14:50 ls_result
+-rw-r--r--  1 hy  staff   30 12 12 14:50 redirect.sh
+-rw-r--r--  1 hy  staff   26 12 11 16:33 test.sh
+total 32
+-rwxr-xr-x  1 hy  staff   32 12 11 16:31 helloWorld.sh
+-rw-r--r--  1 hy  staff  478 12 12 14:50 ls_result
+-rw-r--r--  1 hy  staff   67 12 12 14:52 redirect.sh
+-rw-r--r--  1 hy  staff   26 12 11 16:33 test.sh
